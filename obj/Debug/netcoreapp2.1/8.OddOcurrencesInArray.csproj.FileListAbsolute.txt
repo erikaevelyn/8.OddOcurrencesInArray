@@ -1,0 +1,11 @@
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.csprojAssemblyReference.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.AssemblyInfoInputs.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.AssemblyInfo.cs
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\bin\Debug\netcoreapp2.1\8.OddOcurrencesInArray.deps.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\bin\Debug\netcoreapp2.1\8.OddOcurrencesInArray.runtimeconfig.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\bin\Debug\netcoreapp2.1\8.OddOcurrencesInArray.runtimeconfig.dev.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\bin\Debug\netcoreapp2.1\8.OddOcurrencesInArray.dll
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\bin\Debug\netcoreapp2.1\8.OddOcurrencesInArray.pdb
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.dll
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\8.OddOcurrencesInArray\obj\Debug\netcoreapp2.1\8.OddOcurrencesInArray.pdb
